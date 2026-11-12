@@ -77,7 +77,9 @@
 # • integer part - 45
 # • fractional part - .78
 
-a = float(input("Your Number in decimal : "))
-int_a = int(a)
-float_a = a % int_a
-print(f"Int value is {int_a}, Fractional value is {float_a}")
+# a = float(input("Your Number in decimal : "))
+# int_a = int(a)
+# float_a = a % int_a
+# print(f"Int value is {int_a}, Fractional value is {float_a}")
+
+print("ok")
