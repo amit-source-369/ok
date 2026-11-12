@@ -83,3 +83,5 @@
 # print(f"Int value is {int_a}, Fractional value is {float_a}")
 
 print("ok")
+
+print("ok2")
